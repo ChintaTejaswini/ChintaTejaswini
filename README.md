@@ -63,23 +63,6 @@ developer = {
 
 ---
 
-<!-- ▓▓ CURRENTLY ▓▓ -->
-
-### `$ currently`
-
-```
-  ● active
-
-  [▶]  Strengthening DSA and problem-solving foundations
-  [▶]  Contributing to open source through GSSoC '26
-  [▶]  Exploring web development fundamentals
-  [○]  Next: Competitive programming & project building
-```
-
-<br/>
-
----
-
 <!-- ▓▓ GIT LOG GRAPH ▓▓ -->
 
 ### `$ git log --graph`
