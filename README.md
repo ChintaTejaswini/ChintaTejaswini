@@ -1,67 +1,6 @@
-<!--
-╔══════════════════════════════════════════════════════════════════╗
-║           CHINTA TEJASWINI  ·  GitHub Profile README             ║
-╚══════════════════════════════════════════════════════════════════╝
--->
 
-<!-- ▓▓ HEADER ▓▓ -->
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:161b22&height=150&section=header&text=Chinta%20Tejaswini&fontSize=38&fontColor=e6edf3&fontAlign=50&fontAlignY=45&desc=First-Year%20BTech%20Student%20%E2%80%A2%20GSSoC%2726%20Contributor%20%E2%80%A2%20Exploring%20Software%20Development&descSize=13&descFontColor=6e7681&descAlignY=68" width="100%" />
 
-</div>
-
-<!-- ▓▓ TYPING LINE ▓▓ -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3800&pause=1400&color=58A6FF&center=true&vCenter=true&width=500&height=36&lines=Turning+curiosity+into+code.;Building+projects+and+learning+through+practice.;Enjoy+collaborating%2C+sharing+ideas%2C+and+growing+together.;Exploring+new+technologies%2C+one+step+at+a+time.)](https://github.com/ChintaTejaswini)
-
-</div>
-
-<!-- ▓▓ VIEWS ▓▓ -->
-<p align="left">&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ChintaTejaswini&style=flat-square&color=21262d&labelColor=0d1117&label=profile+views" />
-</p>
-
-<br/>
-
----
-
-<!-- ▓▓ WHOAMI ▓▓ -->
-
-### `$ whoami`
-
-```python
-developer = {
-    "name"        : "Chinta Tejaswini",
-    "university"  : "Presidency University, Bengaluru",
-    "degree"      : "B.Tech — Computer Science & Data Science",
-    "status"      : "First-Year BTech Student",
-    "interests"   : ["DSA", "Web Development", "Open Source", "Data Analytics"],
-    "currently"   : "GSSoC '26 Contributor",
-    "location"    : "Bengaluru, India"
-}
-```
-
-<br/>
-
----
-
-<!-- ▓▓ SKILLS ▓▓ -->
-
-### `$ skills`
-
-&nbsp;&nbsp;**Languages**
-
-&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css&theme=dark&perline=5" />
-
-&nbsp;&nbsp;**Tools & Environment**
-
-&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=5" />
-
-<br/>
-
----
 
 <!-- ▓▓ GIT LOG GRAPH ▓▓ -->
 
@@ -145,8 +84,14 @@ developer = {
   &nbsp;
 </p>
 
+
+
+<!-- ▓▓ VIEWS ▓▓ -->
+<p align="left">&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ChintaTejaswini&style=flat-square&color=21262d&labelColor=0d1117&label=profile+views" />
+</p>
+
 <br/>
 
-<!-- ▓▓ FOOTER ▓▓ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=90&section=footer" width="100%" />
+
